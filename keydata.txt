@@ -1,0 +1,162 @@
+q: {
+			color: "#3a10bb",
+			sound: new Howl({
+			src: ['assets/sounds/bubbles.mp3']
+		})	
+
+		w: {
+			color: "#ffae03",
+			sound: new Howl({
+			src: ['assets/sounds/clay.mp3']
+		})	
+
+		e: {
+			color: "purple",
+			sound: new Howl({
+			src: ['assets/sounds/bubbles.mp3']
+		})
+
+		r: {
+			color: "purple",
+			sound: new Howl({
+			src: ['assets/sounds/bubbles.mp3']
+		})	
+
+		t: {
+			color: "purple",
+			sound: new Howl({
+			src: ['assets/sounds/bubbles.mp3']
+		})	
+
+		y: {
+			color: "purple",
+			sound: new Howl({
+			src: ['assets/sounds/bubbles.mp3']
+		})	
+
+		u: {
+			color: "purple",
+			sound: new Howl({
+			src: ['assets/sounds/bubbles.mp3']
+		})	
+
+		i: {
+			color: "purple",
+			sound: new Howl({
+			src: ['assets/sounds/bubbles.mp3']
+		})	
+
+		o: {
+			color: "purple",
+			sound: new Howl({
+			src: ['assets/sounds/bubbles.mp3']
+		})	
+
+		p: {
+				color: "purple",
+			sound: new Howl({
+			src: ['assets/sounds/bubbles.mp3']
+		})	
+
+		a: {
+			color: "purple",
+			sound: new Howl({
+			src: ['assets/sounds/bubbles.mp3']
+		})	
+
+		s: {
+			color: "purple",
+			sound: new Howl({
+			src: ['assets/sounds/bubbles.mp3']
+		})	
+
+		d: {
+			color: "purple",
+			sound: new Howl({
+			src: ['assets/sounds/bubbles.mp3']
+		})	
+
+		f: {
+			color: "purple",
+			sound: new Howl({
+			src: ['assets/sounds/bubbles.mp3']
+		})	
+
+		g: {
+			color: "purple",
+			sound: new Howl({
+			src: ['assets/sounds/bubbles.mp3']
+		})	
+
+		h: {
+			color: "purple",
+			sound: new Howl({
+			''src: ['assets/sounds/bubbles.mp3']
+		})		
+
+
+		j: {
+			color: "purple",
+			sound: new Howl({
+			src: ['assets/sounds/bubbles.mp3']
+		})	
+
+		k: {
+			color: "purple",
+			sound: new Howl({
+			src: ['assets/sounds/bubbles.mp3']
+		})	
+
+		l: {
+			color: "purple",
+			sound: new Howl({
+			src: ['assets/sounds/bubbles.mp3']
+		})	
+
+		z: {
+			color: "purple",
+			sound: new Howl({
+			src: ['assets/sounds/bubbles.mp3']
+		})	
+
+		x: {
+			color: "purple",
+			sound: new Howl({
+			src: ['assets/sounds/bubbles.mp3']
+		})	
+
+		c: {
+			color: "purple",
+			sound: new Howl({
+			src: ['assets/sounds/bubbles.mp3']
+		})	
+
+		a: {
+			color: "purple",
+			sound: new Howl({
+			src: ['assets/sounds/bubbles.mp3']
+		})	
+
+		v: {
+			color: "purple",
+			sound: new Howl({
+			src: ['assets/sounds/bubbles.mp3']
+		})	
+
+		b: {
+			color: "purple",
+			sound: new Howl({
+			''src: ['assets/sounds/bubbles.mp3']
+		})	
+
+		n: {
+			color: "purple",
+			sound: new Howl({
+			src: ['assets/sounds/bubbles.mp3']
+		})	
+
+		m: {
+			color: "purple",
+			sound: new Howl({
+			src: ['assets/sounds/bubbles.mp3']
+		})	
